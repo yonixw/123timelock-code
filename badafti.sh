@@ -1,0 +1,1 @@
+npx -y git+https://github.com/comfyops/badafti#main
